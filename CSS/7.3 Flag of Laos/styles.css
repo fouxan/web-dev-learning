@@ -1,0 +1,36 @@
+.outer-box {
+  background-color: red;
+  height: 500px;
+  width: 1000px;
+}
+
+#first {
+  text-align: center;
+  color: white;
+}
+
+.blue-box {
+  position: relative;
+  top: 40px;
+  margin: auto;
+  background-color: blue;
+  height: 300px;
+  width: inherit;
+}
+
+.white-circle {
+  margin: auto;
+  position: relative;
+  top: 40px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+#second {
+  position: relative;
+  top: 50px;
+  text-align: center;
+  color: black;
+}
